@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"filippo.io/edwards25519/field"
+	"github.com/WorthyDD/edwards25519/field"
 )
 
 var B = NewGeneratorPoint()

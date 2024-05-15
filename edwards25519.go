@@ -7,7 +7,7 @@ package edwards25519
 import (
 	"errors"
 
-	"filippo.io/edwards25519/field"
+	"github.com/WorthyDD/edwards25519/field"
 )
 
 // Point types.
